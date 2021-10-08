@@ -4,8 +4,8 @@ function URL() {
     location.href = 'https://jhaashutosh.github.io/AQI/';
 }
 
-document.getElementById("aqi").addEventListener("click", URL1);
+document.getElementById("weather").addEventListener("click", URL1);
 
 function URL1() {
-    location.href = '';
+    location.href = 'https://syedmazharaliraza.github.io/GreenEco/';
 }
